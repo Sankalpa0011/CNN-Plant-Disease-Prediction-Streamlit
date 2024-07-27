@@ -110,10 +110,6 @@ If you want to train the model yourself, you can use the provided Jupyter notebo
 - `app/test_images/`: Directory for storing test images.
 - `app/trained_model/`: Directory containing the trained model.
 
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgements
 
 - The CNN model used in this project is based on MobileNet for transfer learning.
